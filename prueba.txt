@@ -1,3 +1,6 @@
 prueba no. 1
 
 este es el primer git para cambio de versiones. 1.0.0
+
+Prueba no. 2
+se agrego esta linea para hacer el segundo commit
