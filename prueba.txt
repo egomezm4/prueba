@@ -1,0 +1,3 @@
+prueba no. 1
+
+este es el primer git para cambio de versiones. 1.0.0
